@@ -1,0 +1,243 @@
+fileFormatVersion: 2
+guid: ea39e34d93ff7eb4d8d6a16300da9f3a
+timeCreated: 1488495607
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: GeoSphere0
+    100004: GeoSphere001
+    100006: GeoSphere006
+    100008: GeoSphere007
+    100010: GeoSphere008
+    100012: GeoSphere009
+    100014: GeoSphere010
+    100016: GeoSphere4
+    100018: GeoSphere5
+    100020: Grass
+    100022: Grass.Grass01
+    100024: Grass.Grass02
+    100026: Grass001
+    100028: Grass002
+    100030: Grass003
+    100032: ground
+    100034: ground.ground01
+    100036: ground.ground02
+    100038: ground001
+    100040: ground002
+    100042: ground003
+    100044: Island
+    100046: Island003
+    100048: Island01
+    100050: Island02
+    100052: Rock
+    100054: Tree
+    100056: Tree round
+    100058: Tree round001
+    100060: Tree round002
+    100062: Treetrunk
+    100064: Treetrunk001
+    100066: Treetrunk002
+    100068: Water
+    100070: Water.Water002
+    100072: Water.Water01
+    400000: //RootNode
+    400002: GeoSphere0
+    400004: GeoSphere001
+    400006: GeoSphere006
+    400008: GeoSphere007
+    400010: GeoSphere008
+    400012: GeoSphere009
+    400014: GeoSphere010
+    400016: GeoSphere4
+    400018: GeoSphere5
+    400020: Grass
+    400022: Grass.Grass01
+    400024: Grass.Grass02
+    400026: Grass001
+    400028: Grass002
+    400030: Grass003
+    400032: ground
+    400034: ground.ground01
+    400036: ground.ground02
+    400038: ground001
+    400040: ground002
+    400042: ground003
+    400044: Island
+    400046: Island003
+    400048: Island01
+    400050: Island02
+    400052: Rock
+    400054: Tree
+    400056: Tree round
+    400058: Tree round001
+    400060: Tree round002
+    400062: Treetrunk
+    400064: Treetrunk001
+    400066: Treetrunk002
+    400068: Water
+    400070: Water.Water002
+    400072: Water.Water01
+    2300000: GeoSphere0
+    2300002: GeoSphere001
+    2300004: GeoSphere006
+    2300006: GeoSphere007
+    2300008: GeoSphere008
+    2300010: GeoSphere009
+    2300012: GeoSphere010
+    2300014: GeoSphere4
+    2300016: GeoSphere5
+    2300018: Grass
+    2300020: Grass.Grass01
+    2300022: Grass.Grass02
+    2300024: Grass001
+    2300026: Grass002
+    2300028: Grass003
+    2300030: ground
+    2300032: ground.ground01
+    2300034: ground.ground02
+    2300036: ground001
+    2300038: ground002
+    2300040: ground003
+    2300042: Rock
+    2300044: Tree round
+    2300046: Tree round001
+    2300048: Tree round002
+    2300050: Treetrunk
+    2300052: Treetrunk001
+    2300054: Treetrunk002
+    2300056: Water
+    2300058: Water.Water002
+    2300060: Water.Water01
+    3300000: GeoSphere0
+    3300002: GeoSphere001
+    3300004: GeoSphere006
+    3300006: GeoSphere007
+    3300008: GeoSphere008
+    3300010: GeoSphere009
+    3300012: GeoSphere010
+    3300014: GeoSphere4
+    3300016: GeoSphere5
+    3300018: Grass
+    3300020: Grass.Grass01
+    3300022: Grass.Grass02
+    3300024: Grass001
+    3300026: Grass002
+    3300028: Grass003
+    3300030: ground
+    3300032: ground.ground01
+    3300034: ground.ground02
+    3300036: ground001
+    3300038: ground002
+    3300040: ground003
+    3300042: Rock
+    3300044: Tree round
+    3300046: Tree round001
+    3300048: Tree round002
+    3300050: Treetrunk
+    3300052: Treetrunk001
+    3300054: Treetrunk002
+    3300056: Water
+    3300058: Water.Water002
+    3300060: Water.Water01
+    4300000: Rock
+    4300002: Grass
+    4300004: ground
+    4300006: Grass.Grass01
+    4300008: ground.ground01
+    4300010: Grass.Grass02
+    4300012: ground.ground02
+    4300014: Treetrunk
+    4300016: Tree round
+    4300018: Water
+    4300020: Water.Water01
+    4300022: GeoSphere0
+    4300024: ground001
+    4300026: Grass001
+    4300028: Grass002
+    4300030: ground002
+    4300032: ground003
+    4300034: Grass003
+    4300036: GeoSphere001
+    4300038: GeoSphere4
+    4300040: GeoSphere5
+    4300042: Water.Water002
+    4300044: GeoSphere006
+    4300046: GeoSphere007
+    4300048: GeoSphere008
+    4300050: GeoSphere009
+    4300052: GeoSphere010
+    4300054: Tree round001
+    4300056: Treetrunk001
+    4300058: Tree round002
+    4300060: Treetrunk002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
