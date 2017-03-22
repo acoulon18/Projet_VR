@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Assets packages\RPGPackFree\Scripts\OpenChest.cs" />
      <Compile Include="Assets\Assets packages\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" />
      <Compile Include="Assets\Assets packages\Standard Assets\Characters\FirstPersonCharacter\Scripts\HeadBob.cs" />
      <Compile Include="Assets\Assets packages\Standard Assets\Characters\FirstPersonCharacter\Scripts\MouseLook.cs" />
@@ -125,6 +126,7 @@
      <Compile Include="Assets\Assets packages\Standard Assets\Utility\TimedObjectDestructor.cs" />
      <Compile Include="Assets\Assets packages\Standard Assets\Utility\WaypointCircuit.cs" />
      <Compile Include="Assets\Assets packages\Standard Assets\Utility\WaypointProgressTracker.cs" />
+     <Compile Include="Assets\CaveScript.cs" />
      <Compile Include="Assets\ProceduralToolkit\ArrayE.cs" />
      <Compile Include="Assets\ProceduralToolkit\CircularList.cs" />
      <Compile Include="Assets\ProceduralToolkit\ColorE.cs" />
@@ -189,6 +191,8 @@
      <Compile Include="Assets\ProceduralToolkit\RandomE.cs" />
      <Compile Include="Assets\ProceduralToolkit\TextureE.cs" />
      <Compile Include="Assets\ProceduralToolkit\Vector2Int.cs" />
+     <Compile Include="Assets\Scripts\InGameInputs.cs" />
+     <Compile Include="Assets\Scripts\pointerController.cs" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
@@ -209,6 +213,7 @@
      <None Include="Assets\Assets packages\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\3D models\lpruin 3ds\lpreadme.txt" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />

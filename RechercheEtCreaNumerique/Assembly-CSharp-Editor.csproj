@@ -71,6 +71,7 @@
      <None Include="Assets\Assets packages\Standard Assets\Effects\Projectors\Guidelines.txt" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+     <None Include="Assets\3D models\lpruin 3ds\lpreadme.txt" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
      <None Include="Assets\Assets packages\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />

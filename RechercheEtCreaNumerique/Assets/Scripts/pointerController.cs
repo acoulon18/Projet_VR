@@ -8,6 +8,7 @@ public class pointerController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		grappleEnabled = false;
+		Cursor.lockState = CursorLockMode.Locked;
 	}
 	
 	// Update is called once per frame
@@ -27,4 +28,11 @@ public class pointerController : MonoBehaviour {
 			objectGrappled = other.gameObject;
 		}
 	}
+	void OnTriggerExit (Collider other) {
+		if (other.tag == "CibleGrappin")
+		{
+			grappleEnabled = false;
+		}
+	}
+			
 }
